@@ -6,7 +6,7 @@ Aplikasi mendukung mode Mock API untuk development dan Real API untuk production
 
 Cara Menjalankan Project
 1. Clone Repository
-git clone https://github.com/username/nama-repo.git
+git clone https://github.com/yssalam/mini-quiz-app.git
 cd nama-repo
 
 2. Install Dependency
